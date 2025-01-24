@@ -1,7 +1,7 @@
 # Comparative Performance Analysis of Machine Learning Regression Models on the Advertising Dataset
 This repository explores the application of several machine learning regression models to the Advertising dataset, which examines the relationship between advertising spending (TV, Radio, Newspaper) and product sales.  The project aims to identify the model that offers the best predictive performance on unseen data while considering factors like interpretability and complexity.
 
-Linear Regression:
+* Linear Regression:
 A simple yet interpretable model that achieved an R² score of 0.897, indicating a strong linear relationship between advertising budgets and sales.
 
 Decision Tree Regressor:
