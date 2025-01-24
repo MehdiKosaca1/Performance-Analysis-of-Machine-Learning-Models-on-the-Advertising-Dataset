@@ -1,0 +1,2 @@
+# Comparative Performance Analysis of Machine Learning Regression Models on the Advertising Dataset
+This repository explores the application of several machine learning regression models to the Advertising dataset, which examines the relationship between advertising spending (TV, Radio, Newspaper) and product sales.  The project aims to identify the model that offers the best predictive performance on unseen data while considering factors like interpretability and complexity.
