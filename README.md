@@ -17,5 +17,6 @@ SVR achieved an R² score of 0.882, making it a decent option but slightly less 
 By incorporating regularization to reduce overfitting, Ridge Regression achieved an R² score of 0.893, similar to Linear Regression but with better stability on unseen data.
 
 This project also includes detailed evaluations, such as residual analysis, cross-validation results, and error metrics (MAE, MSE), to provide a comprehensive understanding of each model's strengths and limitations. The findings serve as a guide for selecting the most suitable regression model depending on specific business needs and data characteristics.
+
 ![image](https://github.com/user-attachments/assets/f4c9a9fe-1e4a-4cf5-9ac0-70c717f8e9d5)
 
